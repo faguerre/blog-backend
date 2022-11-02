@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../rest-api-master"
+		},
+		{
+			"path": "../../sa-course-examples-master"
+		}
+	]
+}
